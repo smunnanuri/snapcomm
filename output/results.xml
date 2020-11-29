@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="19.8700" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-11-29T09:10:58" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="ROITest" timestamp="2020-11-29T09:10:58" tests="1" file="C:\Applications\CodeceptjsAssignment\tests\snapcommsROI_test.js" time="19.8700" failures="0">
+    <testcase name="ROITest: Snapcomms ROI Load" time="19.8700" classname="Snapcomms ROI Load">
+    </testcase>
+  </testsuite>
+</testsuites>
